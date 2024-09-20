@@ -1,4 +1,4 @@
-﻿altair==5.3.0
+altair==5.3.0
 anyio==4.4.0
 argon2-cffi==23.1.0
 argon2-cffi-bindings==21.2.0
@@ -82,7 +82,6 @@ Pygments==2.17.2
 python-dateutil==2.8.2
 python-json-logger==2.0.7
 pytz==2024.1
-pywinpty==2.0.13
 PyYAML==6.0.1
 pyzmq==25.1.2
 qtconsole==5.5.2
@@ -119,7 +118,3 @@ webcolors==24.6.0
 webencodings==0.5.1
 websocket-client==1.8.0
 widgetsnbextension==4.0.11
-streamlit
-pandas
-pickle-mixin
-
